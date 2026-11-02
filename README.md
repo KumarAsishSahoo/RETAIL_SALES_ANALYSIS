@@ -1,4 +1,4 @@
-# 🛍️ Retail Sales Analysis Using SQL
+# 🛍️ Retail Sales Analysis 
 
 ![SQL](https://img.shields.io/badge/Analysis-100%25%20SQL-blue)
 ![Database](https://img.shields.io/badge/Database-PostgreSQL-orange)
